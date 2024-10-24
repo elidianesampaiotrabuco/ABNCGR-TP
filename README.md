@@ -1,3 +1,3 @@
-<!-- TP not made yet -->
+<!-- TP in progress -->
 
-- [ ] Make the texture pack
+- [ ] Make the texture pack (10%)
