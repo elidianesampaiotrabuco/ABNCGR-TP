@@ -1,3 +1,3 @@
-<!-- TP in progress -->
+THIS IS NOW DISCONTINUED DUE TO ABNCG: REIMAGINED BEING CANCELLED
 
 - [ ] Make the texture pack (15%)
